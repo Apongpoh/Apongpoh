@@ -1,4 +1,4 @@
-# Coder+Entrepreneur+Full Stack Developer(MERN Stack). Always passionate to learn new tech skills. I'm down for JavaScript.
+# SoftwareEngineer+Entrepreneur. Always passionate to learn new tech skills.
 
 <!---
 Apongpoh/Apongpoh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
