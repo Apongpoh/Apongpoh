@@ -1,4 +1,4 @@
-# SoftwareEngineer+Entrepreneur+AI+Mobile App. Always passionate to learn new tech skills.
+# Entrepreneur+SoftwareEngineer+AI+Mobile App. Always passionate to learn new tech skills.
 
 <!---
 Apongpoh/Apongpoh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
