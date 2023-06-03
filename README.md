@@ -1,3 +1,4 @@
+<!doctype>
 <style>
 body {
     color: 'red'
