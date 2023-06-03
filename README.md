@@ -2,6 +2,11 @@
 <html>
 <head>
 <title>Page Title</title>
+<style>
+body {
+    color: 'red'
+}
+</style>
 </head>
 <body>
 
